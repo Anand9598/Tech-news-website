@@ -7,9 +7,9 @@ This dynamic tech news website empowers you to stay informed about the ever-evol
 
 **Key Features**:
 
-Fresh Tech News: Our website leverages APIs to deliver the latest and most relevant tech news articles directly to your screen.
-Seamless Search: Can't find what you're looking for? Utilize our intuitive search functionality to pinpoint specific topics and news categories with ease.
-Effortless Navigation: Never get lost in the information overload. Our website incorporates pagination, allowing you to effortlessly navigate through pages of news articles and explore a vast range of tech updates.
+1.Fresh Tech News: Our website leverages APIs to deliver the latest and most relevant tech news articles directly to your screen.
+2.Seamless Search: Can't find what you're looking for? Utilize our intuitive search functionality to pinpoint specific topics and news categories with ease.
+3.Effortless Navigation: Never get lost in the information overload. Our website incorporates pagination, allowing you to effortlessly navigate through pages of news articles and explore a vast range of tech updates.
 
 **Technologies Used** --> React.js,javascript,css
 
